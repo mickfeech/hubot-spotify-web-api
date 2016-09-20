@@ -14,7 +14,7 @@ Then add **hubot-hubot-spotify-web-api** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-hubot-spotify-web-api"
+  "hubot-spotify-web-api"
 ]
 ```
 
