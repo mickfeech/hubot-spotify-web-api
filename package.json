@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-spotify-web-api.git"
+    "url": "git://github.com:mickfeech/hubot-spotify-web-api.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-spotify-web-api/issues"
+    "url": "https://github.com:mickfeech/hubot-spotify-web-api/issues"
   },
 
   "dependencies": {
