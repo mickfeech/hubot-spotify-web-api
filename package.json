@@ -17,6 +17,7 @@
   },
 
   "dependencies": {
+    "spotify-web-api-node": "^2.3.5"
   },
 
   "peerDependencies": {
