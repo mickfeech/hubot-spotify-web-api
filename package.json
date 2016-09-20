@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-spotify-web-api",
+  "name": "hubot-spotify-web-api",
   "description": "A hubot script to manage spotify playlists",
   "version": "0.0.0",
   "author": "Chris McFee <cmcfee@kent.edu>",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/%3Amickfeech/hubot-spotify-web-api.git"
+    "url": "git://github.com/mickfeech/hubot-spotify-web-api.git"
   },
   "bugs": {
     "url": "https://github.com/mickfeech/hubot-spotify-web-api/issues"
@@ -39,7 +39,7 @@
     "sinon-chai": "^2.7.0"
   },
   "main": "index.coffee",
-  "homepage": "https://github.com/mickfeech/hubot-hubot-spotify-web-api#readme",
+  "homepage": "https://github.com/mickfeech/hubot-spotify-web-api#readme",
   "scripts": {
     "test": "grunt test"
   },
