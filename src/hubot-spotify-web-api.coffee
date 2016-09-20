@@ -13,9 +13,9 @@
 #   SPOTIFY_USER_ID
 #
 # Commands:
-#   hubot spotify find
-#   hubot spotify playlist addId <id>
-#   hubot spotify playlist list
+#   hubot spotify find <query> - Finds a list of matching songs
+#   hubot spotify playlist addId <id> - Adds a song by trackId
+#   hubot spotify playlist list - Returns the list of current tracks in the playlist
 #
 # Author:
 #   mickfeech
