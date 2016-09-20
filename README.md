@@ -18,13 +18,6 @@ Then add **hubot-hubot-spotify-web-api** to your `external-scripts.json`:
 ]
 ```
 
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
-```
-
 ## NPM Module
 
 https://www.npmjs.com/package/hubot-hubot-spotify-web-api
