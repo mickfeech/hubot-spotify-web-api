@@ -8,9 +8,9 @@ See [`src/hubot-spotify-web-api.coffee`](src/hubot-spotify-web-api.coffee) for f
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-spotify-web-api --save`
+`npm install hubot-spotify-web-api --save`
 
-Then add **hubot-hubot-spotify-web-api** to your `external-scripts.json`:
+Then add **hubot-spotify-web-api** to your `external-scripts.json`:
 
 ```json
 [
@@ -20,4 +20,4 @@ Then add **hubot-hubot-spotify-web-api** to your `external-scripts.json`:
 
 ## NPM Module
 
-https://www.npmjs.com/package/hubot-hubot-spotify-web-api
+https://www.npmjs.com/package/hubot-spotify-web-api
