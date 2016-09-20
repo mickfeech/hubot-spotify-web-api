@@ -4,26 +4,25 @@
   "version": "0.0.0",
   "author": "Chris McFee <cmcfee@kent.edu>",
   "license": "MIT",
-
-  "keywords": "hubot, hubot-scripts, spotify, music",
-
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "spotify",
+    "music"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com:mickfeech/hubot-spotify-web-api.git"
+    "url": "git://github.com/%3Amickfeech/hubot-spotify-web-api.git"
   },
-
   "bugs": {
     "url": "https://github.com/mickfeech/hubot-spotify-web-api/issues"
   },
-
   "dependencies": {
     "spotify-web-api-node": "^2.3.5"
   },
-
   "peerDependencies": {
     "hubot": "2.x"
   },
-
   "devDependencies": {
     "hubot-test-helper": "^1.3.0",
     "chai": "^2.1.1",
@@ -39,10 +38,12 @@
     "sinon": "^1.13.0",
     "sinon-chai": "^2.7.0"
   },
-
   "main": "index.coffee",
-
+  "homepage": "https://github.com/mickfeech/hubot-hubot-spotify-web-api#readme",
   "scripts": {
     "test": "grunt test"
+  },
+  "directories": {
+    "test": "test"
   }
 }
