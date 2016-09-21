@@ -1,4 +1,4 @@
-# hubot-hubot-spotify-web-api
+# hubot-spotify-web-api
 
 A hubot script to manage spotify playlists
 
