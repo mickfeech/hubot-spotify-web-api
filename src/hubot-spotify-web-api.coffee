@@ -14,6 +14,7 @@
 #
 # Commands:
 #   hubot spotify find <query> - Finds a list of matching songs
+#   hubot spotify search <query> - Finds a list of matching songs
 #   hubot spotify playlist addId <id> - Adds a song by trackId
 #   hubot spotify playlist list - Returns the list of current tracks in the playlist
 #
@@ -95,7 +96,7 @@ module.exports = (robot) ->
     robot.messageRoom room.id, query.code
 
   # Find tracks
-  robot.respond /spotify find (.*)/i, (res) ->
+  robot.respond /spotify (?:find|search) (.*)/i, (res) ->
     trackSearch = res.match[1]
     console.log "Doing a search for #{trackSearch}"
     spotifyApi.searchTracks(trackSearch).then ((data) ->
