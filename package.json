@@ -1,7 +1,7 @@
 {
   "name": "hubot-spotify-web-api",
   "description": "A hubot script to manage spotify playlists",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Chris McFee <cmcfee@kent.edu>",
   "license": "MIT",
   "keywords": [
@@ -18,7 +18,7 @@
     "url": "https://github.com/mickfeech/hubot-spotify-web-api/issues"
   },
   "dependencies": {
-    "spotify-web-api-node": "^2.3.5"
+    "spotify-web-api-node": "^2.5.0"
   },
   "peerDependencies": {
     "hubot": "2.x"
